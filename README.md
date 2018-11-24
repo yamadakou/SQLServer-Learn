@@ -45,9 +45,11 @@
   - 参考：https://docs.microsoft.com/ja-jp/sql/relational-databases/graphs/sql-graph-overview
 
 ## 展開先
+### 使用するデータ
 - サンプル用DBは基本的にMS公式の「AdventureWorks」を使用する。
   - 準備方法はMS Doc「[AdventureWorks のインストールと構成](https://docs.microsoft.com/ja-jp/sql/samples/adventureworks-install-configure)」を参照
     - https://docs.microsoft.com/ja-jp/sql/samples/adventureworks-install-configure
 
-- hierarchyid
-  - hierarchyid([hierarchyidのページ])
+### hierarchyid データ型
+  - 本ブランチ内の「[hierarchyid](https://github.com/yamadakou/SQLServer-example/tree/master/hierarchyid)」参照
+    - https://github.com/yamadakou/SQLServer-example/tree/master/hierarchyid
