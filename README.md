@@ -5,7 +5,7 @@
 
 ## 対象技術（随時更新）
 ### データ型
-  - hierarchyid（SQL Server 2008以降）
+  - [hierarchyid（SQL Server 2008以降）](https://github.com/yamadakou/SQLServer-example/tree/master/hierarchyid)
     - 参考：http://d.hatena.ne.jp/matu_tak/20100205/1265299001
 
   - ユーザー定義テーブル型（User-Defined Table Type）とテーブル値パラメータ（Table-Valued Parameters）
@@ -27,7 +27,7 @@
 ### JSON対応（SQL Server 2016以降）
   - 参考：https://qiita.com/tenn25/items/ce562c5447ffcbb8149c
 
-### 動的データマスク（SQL Server 2016以降）
+### [動的データマスク（SQL Server 2016以降）](https://github.com/yamadakou/SQLServer-example/tree/master/dynamic_data_masking)
   - 参考：https://qiita.com/tenn25/items/ce562c5447ffcbb8149c
 
 ### 並列クエリ
@@ -53,3 +53,8 @@
 ### hierarchyid データ型
   - 本ブランチ内の「[hierarchyid](https://github.com/yamadakou/SQLServer-example/tree/master/hierarchyid)」参照
     - https://github.com/yamadakou/SQLServer-example/tree/master/hierarchyid
+    
+### 動的データマスク / DynamicDataMasking（DDM）
+  - 本ブランチ内の「[dynamic_data_masking](https://github.com/yamadakou/SQLServer-example/tree/master/dynamic_data_masking)」参照
+    - https://github.com/yamadakou/SQLServer-example/tree/master/dynamic_data_masking
+
